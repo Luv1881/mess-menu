@@ -1,0 +1,79 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Mess Menu</string>
+    <string name="widget_name">Mess Menu Widget</string>
+    
+    <!-- Menu Screen -->
+    <string name="menu_title">Weekly Menu</string>
+    <string name="settings_title">Settings</string>
+    <string name="import_file">Import Excel File</string>
+    <string name="import_new_file">Import New File</string>
+    <string name="reload_file">Reload File</string>
+    <string name="clear_menu">Clear Menu</string>
+    
+    <!-- Meal Labels -->
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    
+    <!-- Days of Week -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    
+    <!-- Empty States -->
+    <string name="no_menu_title">No Menu Loaded</string>
+    <string name="no_menu_description">Import an Excel file to see your weekly mess menu</string>
+    <string name="no_menu_widget">Tap to load menu</string>
+    
+    <!-- Settings -->
+    <string name="appearance_section">Appearance</string>
+    <string name="text_size">Widget Text Size</string>
+    <string name="widget_theme">Widget Theme</string>
+    <string name="show_icons">Show Meal Icons</string>
+    <string name="dark_mode">Dark Mode</string>
+    
+    <string name="notifications_section">Notifications</string>
+    <string name="enable_notifications">Enable Meal Reminders</string>
+    <string name="breakfast_time">Breakfast Reminder Time</string>
+    <string name="lunch_time">Lunch Reminder Time</string>
+    <string name="dinner_time">Dinner Reminder Time</string>
+    
+    <!-- Themes -->
+    <string name="theme_default">Default</string>
+    <string name="theme_minimal">Minimal</string>
+    <string name="theme_colorful">Colorful</string>
+    
+    <!-- Actions -->
+    <string name="refresh">Refresh</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    
+    <!-- Error Messages -->
+    <string name="error_file_not_found">File not found</string>
+    <string name="error_invalid_format">Invalid Excel format. Expected columns: Day, Breakfast, Lunch, Dinner</string>
+    <string name="error_no_data">No menu data found in the file</string>
+    <string name="error_permission_denied">Storage permission required to read files</string>
+    <string name="error_unknown">An unexpected error occurred</string>
+    
+    <!-- Success Messages -->
+    <string name="success_import">Menu imported successfully!</string>
+    <string name="success_reload">Menu reloaded successfully!</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_import_button">Import Excel file</string>
+    <string name="cd_refresh_button">Refresh menu</string>
+    <string name="cd_settings_button">Open settings</string>
+    <string name="cd_breakfast_icon">Breakfast</string>
+    <string name="cd_lunch_icon">Lunch</string>
+    <string name="cd_dinner_icon">Dinner</string>
+    
+    <!-- Widget -->
+    <string name="widget_description">Shows today\'s mess menu with breakfast, lunch, and dinner</string>
+    <string name="today">Today</string>
+</resources>
